@@ -1,0 +1,3 @@
+Para realizar la ejecución de este proyecto únicamente es necesario 
+tener instalado Android Studio, posterior a esto se debe de abrir 
+el proyecto y se puede ejecutar en el emulador.
